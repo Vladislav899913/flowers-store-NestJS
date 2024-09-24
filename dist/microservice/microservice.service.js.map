@@ -1,0 +1,1 @@
+{"version":3,"file":"microservice.service.js","sourceRoot":"","sources":["../../src/microservice/microservice.service.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAA4C;AAGrC,IAAM,mBAAmB,GAAzB,MAAM,mBAAmB;IAC9B,aAAa,CAAC,OAAe;QAC3B,OAAO,CAAC,GAAG,CAAC,cAAc,EAAE,OAAO,CAAC,CAAC;IACvC,CAAC;CACF,CAAA;AAJY,kDAAmB;8BAAnB,mBAAmB;IAD/B,IAAA,mBAAU,GAAE;GACA,mBAAmB,CAI/B"}
